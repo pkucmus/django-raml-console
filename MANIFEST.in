@@ -1,0 +1,3 @@
+include README.md
+recursive-include raml_console/static *
+recursive-include raml_console/templates *
