@@ -17,4 +17,4 @@ INSTALLED_APPS = [
 url(r'^raml/', include('raml_console.urls')),
 ```
 
-3. Visit http://127.0.0.1:8000/raml/<app_name>/<raml_file> to access the console.
+3. Visit http://127.0.0.1:8000/raml/{{app_name}}/{{raml_file}} to access the console.
